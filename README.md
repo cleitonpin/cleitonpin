@@ -10,7 +10,7 @@
 
 ```
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-cleitonpin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-p-003b5b106//)](https://www.linkedin.com/in/cleiton-p-003b5b106/)
 [![Gmail Badge](https://img.shields.io/badge/-cleiton.biou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=cleiton.biou@gmail.com)](cleiton:cleiton.biou@gmail.com)
 
 <!--
