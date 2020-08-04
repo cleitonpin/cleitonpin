@@ -8,8 +8,8 @@
   </Profile>
 
 ```
-
-[![Gmail Badge] (https://img.shields.io/badge/-cleiton.biou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=cleiton.biou@gmail.com)](cleiton.biou@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-cleiton.biou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=cleiton.biou@gmail.com)](cleiton:cleiton.biou@gmail.com)
 <!--
 **cleitonpin/cleitonpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
