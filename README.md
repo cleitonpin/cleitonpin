@@ -15,7 +15,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-cleitonpin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-p-003b5b106//)](https://www.linkedin.com/in/cleiton-p-003b5b106/)
 [![Gmail Badge](https://img.shields.io/badge/-cleiton.biou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=cleiton.biou@gmail.com)](cleiton:cleiton.biou@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/cleitonnnnnn/)](cleiton:@cleitonnnnnn)
+[![Instagram Badge](https://img.shields.io/badge/@cleitonnnnnn-%23E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/cleitonnnnnn/)](cleiton:@cleitonnnnnn)
 
 <!--
 **cleitonpin/cleitonpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
