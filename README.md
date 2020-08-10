@@ -14,7 +14,7 @@
 <br/> Gosto de jogar jogos online como Lol, VALORANT, TFT
 
 [![Linkedin Badge](https://img.shields.io/badge/-cleitonpin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-p-003b5b106//)](https://www.linkedin.com/in/cleiton-p-003b5b106/)
-[![Gmail Badge](https://img.shields.io/badge/-cleiton.biou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)]
+![Gmail Badge](https://img.shields.io/badge/-cleiton.biou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 [![Instagram Badge](https://img.shields.io/badge/@cleitonnnnnn-%23E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/cleitonnnnnn/)](cleiton:@cleitonnnnnn)
 
 <!--
