@@ -11,7 +11,6 @@
 
 <br/> Atualmente estudando ReactJS, Typescript
 <br/> Tecnologias que gosto: ReactJS, Node.js, Typescript
-<br/> Gosto de jogar jogos online como Lol, VALORANT, TFT
 
 [![Linkedin Badge](https://img.shields.io/badge/-cleitonpin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-p-003b5b106//)](https://www.linkedin.com/in/cleiton-p-003b5b106/)
 [![Gmail Badge](https://img.shields.io/badge/-cleiton.biou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
