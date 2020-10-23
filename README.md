@@ -2,7 +2,7 @@
 
 ```js
 class Profile {
-  constructor(name = String, lastName = String, age = Number) {
+  constructor() {
     this.name = "Cleiton";
     this.lastName = "Aguiar";
     this.age = 22;
