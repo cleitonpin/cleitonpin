@@ -9,7 +9,7 @@
 
 ```
 
-<br/> Atualmente estudando ReactJS, Typescript
+<br/> Atualmente estudando ReactJS, Node.JS, HTML, CSS
 <br/> Tecnologias que gosto: ReactJS, Node.js, Typescript
 
 [![Linkedin Badge](https://img.shields.io/badge/-cleitonpin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-p-003b5b106//)](https://www.linkedin.com/in/cleiton-p-003b5b106/)
