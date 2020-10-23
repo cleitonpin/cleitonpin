@@ -1,16 +1,23 @@
 ### Olá 👋
 
+```js
+class Profile {
+  constructor(name = String, lastName = String, age = Number) {
+    this.name = "Cleiton";
+    this.lastName = "Aguiar";
+    this.age = 22;
+  }
+  
+  learning() {
+    console.log('ReactJS, Node.JS, HTML, CSS');
+  }
+  
+  technologiesLike(){
+    console.log('ReactJS, TypeScript, JavaScript, Node.JS');
+  }
+}
 ```
-  <Profile>
-      first-name: "Cleiton",
-      last-name: "Aguiar",
-      age: 19,
-  </Profile>
 
-```
-
-<br/> Atualmente estudando ReactJS, Node.JS, HTML, CSS
-<br/> Tecnologias que gosto: ReactJS, Node.js, Typescript
 
 [![Linkedin Badge](https://img.shields.io/badge/-cleitonpin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-p-003b5b106//)](https://www.linkedin.com/in/cleiton-p-003b5b106/)
 [![Gmail Badge](https://img.shields.io/badge/-cleiton.biou@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
