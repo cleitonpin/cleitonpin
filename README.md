@@ -5,7 +5,7 @@ class Profile {
   constructor() {
     this.name = "Cleiton";
     this.lastName = "Aguiar";
-    this.age = 22;
+    this.age = 19;
   }
   
   learning() {
