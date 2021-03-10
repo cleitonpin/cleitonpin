@@ -14,7 +14,7 @@ class Profile {
     console.log('ReactJS, Node.JS, HTML, CSS');
     
     if (working) {
-      console.log('Working in PHP (Yii2)');
+      console.log(null);
     }
   }
   
