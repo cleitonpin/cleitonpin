@@ -2,26 +2,31 @@
 
 📌 Um pouco sobre mim...
 
-```js
+```ts
 class Profile {
-  constructor() {
-    this.name = "Cleiton";
-    this.lastName = "Aguiar";
-    this.age = 19;
-  }
+    private name: string = "Cleiton",
+    private lastName: string = "Aguiar",
+    private age: Number = 19,
+    
+    
+  constructor(
+    private working: boolean = false
+   ) { }
   
-  learning(working) {
+  working(): void {
     console.log('ReactJS, Node.JS, HTML, CSS');
     
-    if (working) {
-      console.log(null);
-    }
+    if (this.working) return console.log("MERN > MongoDB - Express.js - ReactJS - NodeJS");
+    
   }
   
-  technologiesLike(){
+  technologiesLike(): void {
     console.log('ReactJS, TypeScript, JavaScript, Node.JS');
   }
 }
+
+const profile = new Profile(true) 
+profile.working();
 ```
 ## ⚙️  GitHub Analytics
 
