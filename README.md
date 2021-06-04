@@ -15,8 +15,9 @@ class Profile {
   working(): void {
     console.log('ReactJS, Node.JS, HTML, CSS');
     
-    if (this.working) return console.log("MERN > MongoDB - Express.js - ReactJS - NodeJS");
-    
+    return this.working ? 
+        console.log("MERN > MongoDB - Express.js - ReactJS - NodeJS") :
+        console.log("No working in moment. 😓")
   }
   
   technologiesLike(): void {
