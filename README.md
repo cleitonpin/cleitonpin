@@ -8,7 +8,6 @@ class Profile {
     private lastName: string = "Aguiar",
     private age: Number = 19,
     
-    
   constructor(
     private working: boolean = false
    ) { }
