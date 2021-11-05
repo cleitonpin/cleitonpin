@@ -3,30 +3,33 @@
 📌 Um pouco sobre mim...
 
 ```ts
-class Profile {
-    private name: string = "Cleiton",
-    private lastName: string = "Aguiar",
-    private age: Number = 19,
-    
-  constructor(
-    private working: boolean = false
-   ) { }
-  
+class Cleiton implements Profile {
+  private name: string = "Cleiton";
+  private lastName: string = "Aguiar";
+  private age: number = 20;
+
+  constructor(private meWorking: boolean = false) {}
+
   working(): void {
-    console.log('ReactJS, Node.JS, HTML, CSS');
-    
-    return this.working ? 
-        console.log("MERN > MongoDB - Express.js - ReactJS - NodeJS") :
-        console.log("No working in moment. 😓")
+    console.log("ReactJS, Node.JS, HTML, CSS, MongoDB, AWS");
+
+    return console.log(this.isWorking());
   }
-  
+
+  isWorking(): string {
+    return this.meWorking
+      ? "MERN > MongoDB - Express.js - ReactJS - NodeJS"
+      : "No working in moment. 😓";
+  }
+
   technologiesLike(): void {
-    console.log('ReactJS, TypeScript, JavaScript, Node.JS');
+    console.log("ReactJS, TypeScript, JavaScript, Node.JS");
   }
 }
 
-const profile = new Profile(true) 
+const profile = new Cleiton(true);
 profile.working();
+
 ```
 
 ```
