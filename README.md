@@ -5,7 +5,6 @@
 ```ts
 class Cleiton implements Profile {
   private name: string = "Cleiton";
-  private lastName: string = "Aguiar";
   private age: number = 20;
 
   constructor(private meWorking: boolean = false) {}
