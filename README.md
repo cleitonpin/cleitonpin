@@ -34,10 +34,10 @@ profile.working();
 ```
 $ MERN > MongoDB - Express.js - ReactJS - NodeJS
 ```
-## ⚙️  GitHub Analytics
+<!-- ## ⚙️  GitHub Analytics
 
 [![cleitonpin's github stats](https://github-readme-stats.vercel.app/api?username=cleitonpin&theme=synthwave&show_icons=true&count_private=false,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonpin&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 ## 🔪 Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-cleitonpin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-p-003b5b106//)](https://www.linkedin.com/in/cleiton-p-003b5b106/)
