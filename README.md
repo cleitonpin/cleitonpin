@@ -99,6 +99,8 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tdgmzqkgtoephe8fg29byr5yw)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/cleitonpin/count.svg?"  />
 </div>
